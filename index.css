@@ -1,0 +1,32 @@
+
+
+
+td, th {
+    padding: .7em;
+    margin: 0;
+    /*border: 1px solid #ccc;*/
+    text-align: center;
+  }
+  
+  th{
+    /*background-color: #EEE;*/
+  }
+  td{
+    font-weight:bold;
+    /*background-color: #EEE;*/
+  }
+  
+  table{
+    width: 60%;
+    margin-bottom : .5em;
+    table-layout: fixed;
+    margin:auto;
+    border: solid;
+    border-width: 1px;
+  }
+  h1{
+    text-align: center;
+  }
+  th{
+    background-color: yellow;
+  }
